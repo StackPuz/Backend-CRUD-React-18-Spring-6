@@ -23,7 +23,7 @@ Checkout the live demo at https://demo-spa.stackpuz.com
 
 ## Installation
 1. Clone this repository. `git clone https://github.com/stackpuz/Boilerplate-CRUD-React-18-Spring-6.git .`
-2. Change directory to React project. `cd Boilerplate-CRUD-React-18-Spring-6/react`
+2. Change directory to React project. `cd react`
 3. Install the React dependencies. `npm install`
 4. Create a new database and run [/database.sql](/database.sql) script to create tables and import data.
 5. Edit the database configuration in [/spring_api/src/main/webapp/WEB-INF/app-servlet.xml](/spring_api/src/main/webapp/WEB-INF/app-servlet.xml) file.
